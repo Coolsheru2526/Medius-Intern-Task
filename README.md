@@ -1,4 +1,3 @@
-Here's the updated README file indicating that the assignment is completed:
 
 # Medius Intern Task - Intern Assignment
 
@@ -90,9 +89,3 @@ For any questions or further information, please reach out via email at tech@the
 
 Thank you for reviewing my assignment!
 ```
-
-### Instructions
-- Replace `YOUR_DEPLOYMENT_URL` with the actual URL where your application is deployed on Vercel.
-- You can add any additional information as needed before finalizing the file. 
-
-Feel free to let me know if you need any further modifications!
